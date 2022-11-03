@@ -1,4 +1,4 @@
-# MITxPRO-DockerMERN
+# Control.NET™
 A Full-Stack MERN (Mongo-Express-React-Node) Application Template in Docker Containers.
 
 * Clone this repo and rename to your target App Name.
